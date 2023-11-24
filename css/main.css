@@ -1961,6 +1961,7 @@ i {
 
     .banner-thumb img {
         width: 100%;
+        height: 303px
     }
 }
 
@@ -3232,7 +3233,8 @@ select.form--control option:hover {
     }
 
     .section-thumb img {
-        width: 100%;
+        width: 95%;
+        height: 237px;
     }
 }
 
@@ -5105,6 +5107,9 @@ iframe {
   @media screen and (max-width:767px) {
     .shareSocial .socialList{
         flex-flow: nowrap;
+    }
+    .insta_images{
+        height: 160px;
     }
   }
 /*# sourceMappingURL=main.css.map */
